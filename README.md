@@ -1,1 +1,1 @@
-# EnergyEfficienty
+# EnergyEfficiency
